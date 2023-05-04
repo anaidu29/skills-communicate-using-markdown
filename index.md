@@ -6,3 +6,6 @@
 ###### H6 Header
 ## How it Looks
 ###### ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## How it Looks 
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
